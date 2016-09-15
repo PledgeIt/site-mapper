@@ -1,5 +1,5 @@
 {
-  "name": "site-mapper",
+  "name": "@pledgeit/site-mapper",
   "version": "1.0.0",
   "description": "A simple utility for programmatically generating navigations based on a sitemap tree",
   "keywords": [
@@ -33,5 +33,12 @@
     "mocha": "^3.0.2",
     "sinon": "^1.17.5",
     "sinon-chai": "^2.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PledgeIt/site-mapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PledgeIt/site-mapper/issues"
   }
 }
