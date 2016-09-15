@@ -1,6 +1,6 @@
 {
   "name": "@pledgeit/site-mapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility for programmatically generating navigations based on a sitemap tree",
   "keywords": [
     "breadcrumb",
